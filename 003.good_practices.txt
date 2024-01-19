@@ -1,0 +1,20 @@
+The pragmatic Programmer
+Clean Code - Robert C Martin
+
+Variables
+
+- When naming a variable, the name should describe the data they're storing
+- Variable names shouldn't be too long
+- Variable names shouldn't start with an upper case letter
+- Variable names shouldn't start with a number or an underscore (or any other symbols or special characters)
+
+There are 3 ways to declare Variables
+1. camelCase = firstName -> the first word is all lowecase and the first letter of the next word in an upper case letter
+2. snake_case / under_score = first_name -> the words are separated by an underscore
+3. lowecase = firstname -> all the letters are lowercase
+
+CONSTANTS
+- Constants should be named using upper case letters
+- Constant names shouldn't be too long
+- Constant names shouldn't start with an upper case letter
+- Constant names shouldn't start with a number or an underscore (or any other symbols or special characters)
