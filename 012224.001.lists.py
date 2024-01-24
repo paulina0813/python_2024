@@ -1,9 +1,21 @@
 '''
 001. Lists
 - Lists are a variable
-- You can have several values inside the variable
+- They are used to save different values inside a variable
+- A list can contain the following data types: int, float, string, boolean, lists
+- To declare a variable we use []
+- The lists can be ordered, changed, and allow duplicates
+- Lists can be indexed and they start by [0]
 '''
-list_my_students = ['Maagie', 'Ibrahim', 'Paulina', 'Octavio', 'Ulises', 2024, 2.50]
+list_my_students = [
+    'Maagie', 
+    'Ibrahim', 
+    'Paulina', 
+    'Octavio', 
+    'Ulises', 
+    #2024, 
+    #2.50
+    ]
 
 print(list_my_students)
 print(list_my_students[0])
@@ -30,7 +42,7 @@ print("The length of the list at this point is " +str(len(list_my_students)))
 list_my_students.pop() #removes the last element of the list
 print(list_my_students)
 print("The length of the list at this point is " +str(len(list_my_students)))
-list_my_students.pop(9) #removes the element of the list located in position 9
+list_my_students.pop(3) #removes the element of the list located in position 3
 print(list_my_students)
 print("The length of the list at this point is " +str(len(list_my_students)))
 list_my_students.remove("Paulina") #removes that value from the list
@@ -42,3 +54,8 @@ print("The length of the list at this point is " +str(len(list_my_students)))
 
 for student in list_my_students:
     print(student)
+
+#sort - orders the list from lowest to highest
+print(list_my_students)
+list_my_students.sort()
+print(list_my_students)
