@@ -10,7 +10,7 @@ savings = input("Enter the amount of money deposited into the savings account: "
 try:
     fsavings = float(savings)
 except:
-    print("Please enter a valida amount and try again!")
+    print("Please enter a validate amount and try again!")
     quit()
 while years <= 3:
     final_balance = round((fsavings + fsavings * 0.04), 2)
