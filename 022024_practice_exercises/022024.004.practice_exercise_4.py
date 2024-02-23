@@ -10,5 +10,5 @@ number = num_components_list[1]
 extension = num_components_list[2]
 
 print("The telephone number is: " + number)
-print("The prefixis: " + prefix)
+print("The prefix is: " + prefix)
 print("The extension is: " + extension)

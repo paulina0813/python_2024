@@ -19,4 +19,9 @@ except:
                 print("Hi")
             else:
                 print("Bye")
-        
+'''
+name = input("Please enter your name: )
+repetitions = int(input("Please enter the amount of repetitions: ))
+
+print((name + \'n') + repetitions)
+'''
