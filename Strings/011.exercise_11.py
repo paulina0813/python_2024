@@ -21,3 +21,4 @@ total_format = "{:10.2f}".format(total)
 #print(type(total_format))
 
 print(f'{product}: {units_format} units x {unit_price_format}€ = {total_format}€')
+
