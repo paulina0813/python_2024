@@ -1,5 +1,6 @@
 '''
-Exercise 4
+Exercise 4 Strings
+
 Business telephones have the following prefix-number-extension format where the prefix is ​​the country code +34, and the extension is two digits (for example +34-913724710-56). 
 Write a program that asks for a phone number with this format and displays the phone number without the prefix and extension.
 '''

@@ -1,5 +1,5 @@
 '''
-Exercise 6
+Exercise 6 Strings
 
 Write a program that asks the user to enter a phrase into the console and a vowel, and then displays the same phrase on the screen but with the vowel entered in capital 
 letters.

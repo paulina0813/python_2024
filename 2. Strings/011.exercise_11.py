@@ -1,5 +1,6 @@
 '''
-Exercise 11
+Exercise 11 Strings
+
 Write a program that asks for the name of a product, its price and a number of units and displays a string with the name of the product followed by its unit price with 6 
 integer digits and 2 decimal places, the number of units with three digits and the total cost with 8 whole digits and 2 decimals.
 '''

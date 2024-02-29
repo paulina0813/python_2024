@@ -1,5 +1,6 @@
 '''
-Exercise 1
+Exercise 1 Strings
+
 Write a program that asks for the user's name in the console and an integer and prints the user's name on the screen on different lines as many times as the number entered.
 '''
 

@@ -1,5 +1,6 @@
 '''
-Exercise 8
+Exercise 8 Strings
+
 Write a program that asks the console for the price of a product in euros with two decimal places and displays on the screen the number of euros and the number of cents of 
 the entered price.
 '''
